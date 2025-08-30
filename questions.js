@@ -354,7 +354,7 @@ const questions = [
 // UI Strings for both languages
 const uiStrings = {
   id: {
-    title: "Where do you stand",
+    title: "stupid fucking thing that I hate That I Made in Probably 2 hours",
     nextButton: "Lanjut",
     backButton: "Kembali ke pertanyaan sebelumnya",
     resultsTitle: "Hasil Akhir",
@@ -363,7 +363,7 @@ const uiStrings = {
     answersDetail: "Rincian Jawaban"
   },
   en: {
-    title: "Where do you stand",
+    title: "stupid fucking thing that I hate That I Made in Probably 2 hours",
     nextButton: "Next",
     backButton: "Back to previous question",
     resultsTitle: "Final Results",
@@ -372,3 +372,4 @@ const uiStrings = {
     answersDetail: "Answer Details"
   }
 };
+
